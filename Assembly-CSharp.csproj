@@ -63,6 +63,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\WaveTexture.cs" />
+    <None Include="Assets\Shaders\ComputeShader_Wave.compute" />
     <None Include="Assets\Shaders\Wave.shader" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>D:/Unity_WorkStation/WaterEffect/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>

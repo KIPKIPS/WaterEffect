@@ -326,9 +326,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9ae9428dba2b8ff46960924b2ec70864, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  waveWidth: 128
-  waveHeight: 128
   radius: 10
+  Decrement: 0.005
   tex_uv: {fileID: 0}
 --- !u!64 &1971524481
 MeshCollider:
